@@ -1,0 +1,142 @@
+[
+  {
+    "id": "artisan-1",
+    "name": "Master Rabindra Behera",
+    "craft": "Pattachitra Master & Palm Leaf Engraver",
+    "location": "Raghurajpur Heritage Crafts Village, Puri",
+    "state": "Odisha",
+    "yearsOfExperience": 42,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-Q7WWg-fP_IerbQAkxMtOR1MvKWtaOLnDMLpisyBvJZDVLR4J8PRe7UHqOeZx9_ZcyIMkHJZEwWxY29XQ-NNjqrQz9RJz5mP8z6qCKT2X_HigLdGC_7F82p4T7uqpuy3GI5O2XT3WbrNJAMLHZ8dJtAcQuSyh_oosMpyvkZEOMxLNHzLXmuoDztqjURwYxek-75-GxI4w1qXxGTfmpgU7B9aP_pBlG1BEKOtkT3-GQSw7A8U4Jbs",
+    "heroImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-Q7WWg-fP_IerbQAkxMtOR1MvKWtaOLnDMLpisyBvJZDVLR4J8PRe7UHqOeZx9_ZcyIMkHJZEwWxY29XQ-NNjqrQz9RJz5mP8z6qCKT2X_HigLdGC_7F82p4T7uqpuy3GI5O2XT3WbrNJAMLHZ8dJtAcQuSyh_oosMpyvkZEOMxLNHzLXmuoDztqjURwYxek-75-GxI4w1qXxGTfmpgU7B9aP_pBlG1BEKOtkT3-GQSw7A8U4Jbs",
+    "bio": "Carrying forward a 5-generation legacy of cloth-based scroll paintings using 100% natural stone pigments and conch shell whites.",
+    "quote": "Every line etched on palm leaf is not just art; it is a timeless conversation with our ancestors and sacred traditions.",
+    "fullStory": "Born into the Chitrakar lineage in Raghurajpur, Master Rabindra learned the intricate art of Pattachitra from his grandfather at age nine. Using traditional canvas prepared with tamarind seed paste and chalk, his brushstrokes tell epics of the Gita Govinda and temple folklore. Each pigment is meticulously ground from Hingula (vermilion), Haritala (yellow stone), and lampblack, ensuring paintings that remain vibrant for centuries.",
+    "heritageLineage": "5th Generation Master Artist",
+    "specialty": "Palm Leaf Inscriptions & Temple Epics",
+    "awards": [
+      "National Merit Award (Handicrafts) 2014",
+      "State Kala Ratna 2019",
+      "UNESCO Craft Heritage Fellowship"
+    ],
+    "productCount": 1
+  },
+  {
+    "id": "artisan-2",
+    "name": "Bikram & Devendra Meher",
+    "craft": "Master Sambalpuri Ikat & Silk Weavers",
+    "location": "Bargarh & Sonepur Weavers Society",
+    "state": "Odisha",
+    "yearsOfExperience": 32,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDGvJq6Y9oZUaeU869zM-cPu0HkH4uie3ICN5iyr_rfi0SMZ_9of39r_Nl44dWnFGeB88-ENg-ik1RbgaY7h51OQdrarBq6hu3bQur4LhVpLzSjq8zC1u0L88HdcK0BAPhe5fj9bFar9KoeeseUPG_7d7_NSzaFm_WUhZbaaV6T7acbl0jx8NM0vR761HO1AMgJqgIiseuRzarGh_GJzSJXAxcVOjlAWD-QPdfq-QHdZci7VvZtFsM",
+    "heroImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuDGvJq6Y9oZUaeU869zM-cPu0HkH4uie3ICN5iyr_rfi0SMZ_9of39r_Nl44dWnFGeB88-ENg-ik1RbgaY7h51OQdrarBq6hu3bQur4LhVpLzSjq8zC1u0L88HdcK0BAPhe5fj9bFar9KoeeseUPG_7d7_NSzaFm_WUhZbaaV6T7acbl0jx8NM0vR761HO1AMgJqgIiseuRzarGh_GJzSJXAxcVOjlAWD-QPdfq-QHdZci7VvZtFsM",
+    "bio": "Practicing the sacred mathematical tie-and-dye Ikat art (Bandha Kala) where yarns are dyed before being woven on wooden pit-looms.",
+    "quote": "Ikat is mathematics and poetry bound together in warp and weft.",
+    "fullStory": "Devendra and his weaver collective specialize in intricate tie-dye Bandhakala sarees, pure Tussar silks, and organic tribal weaves. Each piece requires weeks of painstaking calculation, thread winding, tie-dyeing, and shuttle loom precision.",
+    "heritageLineage": "Bhulia Weavers Community",
+    "specialty": "Sambalpuri Silk Ikat & Wild Tussar Weaves",
+    "awards": [
+      "National Handloom Excellence Award 2016",
+      "Sant Kabir Award Nominee"
+    ],
+    "productCount": 7
+  },
+  {
+    "id": "artisan-3",
+    "name": "Madhab Rana & Guild",
+    "craft": "Dhokra Lost-Wax Bell Metal Craftsmen",
+    "location": "Kuliana & Dhenkanal Dhokra Clusters",
+    "state": "Odisha",
+    "yearsOfExperience": 38,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAGpZGMeJwyEIhUXgorxF068OynT6EGW0J8zJYvegjf2xfL7F_VY9P9puyxeH6v19-TL5noNWNkCPcJwkhOWEJrQzrWUN5mJaSgl-NU6SF20wFVUl0L0KZh7VdmSVeQpzgw0vXPeu735Z1VGus3fuvoXaGcriwbuVAQRL-aee80A3CqUfW26-sec8FRxR52MlIBukF3JYfkep5m9hvKhT0XQs6of5jFU6UR7IUC9yLP5dicLZksmlE",
+    "heroImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuAGpZGMeJwyEIhUXgorxF068OynT6EGW0J8zJYvegjf2xfL7F_VY9P9puyxeH6v19-TL5noNWNkCPcJwkhOWEJrQzrWUN5mJaSgl-NU6SF20wFVUl0L0KZh7VdmSVeQpzgw0vXPeu735Z1VGus3fuvoXaGcriwbuVAQRL-aee80A3CqUfW26-sec8FRxR52MlIBukF3JYfkep5m9hvKhT0XQs6of5jFU6UR7IUC9yLP5dicLZksmlE",
+    "bio": "Preserving the 4000-year-old non-ferrous lost-wax metal casting technique handed down through ancient tribal lineages.",
+    "quote": "Each sculpture leaves our hands as beeswax and returns as eternal bronze through fire and river clay.",
+    "fullStory": "Working with river clay, natural beeswax filaments, and molten brass alloys, the artisans of Kuliana create one-of-a-kind figurines, ritual mana measuring vessels, and exquisite tribal jewellery.",
+    "heritageLineage": "Hereditary Dhokra Metal Smiths",
+    "specialty": "Lost-Wax Tribal Castings & Brass Jewellery",
+    "awards": [
+      "State Handicraft Award 2015",
+      "Tribal Heritage Fellowship"
+    ],
+    "productCount": 11
+  },
+  {
+    "id": "artisan-4",
+    "name": "Basudev Mohapatra & Shilpi Guild",
+    "craft": "Traditional Stone & Wood Sculptors",
+    "location": "Lalitgiri & Puri Artisan Guild",
+    "state": "Odisha",
+    "yearsOfExperience": 35,
+    "image": "https://images.unsplash.com/photo-1590402494682-cd3fb53b1f70?auto=format&fit=crop&w=800&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1590402494682-cd3fb53b1f70?auto=format&fit=crop&w=800&q=80",
+    "bio": "Sculpting with age-old chisels handed down through generations, transforming raw sandstone, mango wood, and granite into sacred motifs.",
+    "quote": "The wood and stone speak before the hammer strikes. My role is merely to awaken the form sleeping within.",
+    "fullStory": "Rooted in the architectural ethos of Konarks Sun Temple, the guild works with natural chlorite stone, seasoned mango wood, and sandstone to create timeless relief sculptures, ritual utensils, and home decor.",
+    "heritageLineage": "Konark Shilpi Guild Ancestry",
+    "specialty": "Sandstone Carvings & Hand-chiseled Mango Wood Panels",
+    "awards": [
+      "Rashtrapati Award 2011",
+      "Odisha Shilpi Samman 2018"
+    ],
+    "productCount": 4
+  },
+  {
+    "id": "artisan-5",
+    "name": "Gopal Sahu & Kantilo Kansari Guild",
+    "craft": "Master Bell Metal (Kansa) Smiths",
+    "location": "Kantilo, Nayagarh District",
+    "state": "Odisha",
+    "yearsOfExperience": 40,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAGpZGMeJwyEIhUXgorxF068OynT6EGW0J8zJYvegjf2xfL7F_VY9P9puyxeH6v19-TL5noNWNkCPcJwkhOWEJrQzrWUN5mJaSgl-NU6SF20wFVUl0L0KZh7VdmSVeQpzgw0vXPeu735Z1VGus3fuvoXaGcriwbuVAQRL-aee80A3CqUfW26-sec8FRxR52MlIBukF3JYfkep5m9hvKhT0XQs6of5jFU6UR7IUC9yLP5dicLZksmlE",
+    "heroImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuAGpZGMeJwyEIhUXgorxF068OynT6EGW0J8zJYvegjf2xfL7F_VY9P9puyxeH6v19-TL5noNWNkCPcJwkhOWEJrQzrWUN5mJaSgl-NU6SF20wFVUl0L0KZh7VdmSVeQpzgw0vXPeu735Z1VGus3fuvoXaGcriwbuVAQRL-aee80A3CqUfW26-sec8FRxR52MlIBukF3JYfkep5m9hvKhT0XQs6of5jFU6UR7IUC9yLP5dicLZksmlE",
+    "bio": "Heirloom metal-smiths forging 78% copper and 22% tin bronze alloy according to ancient Ayurvedic principles for health and longevity.",
+    "quote": "Kansa is living metal. Its pure resonance purifies the water it holds and the food cooked within.",
+    "fullStory": "Kantilo on the banks of the Mahanadi is Indias premier traditional bell metal capital. Master Gopal Sahu leads a cooperative of hammer-smiths forging thick-bottomed kadais, sacred water pots (ghada), and dinnerware.",
+    "heritageLineage": "Hereditary Kansari Guild",
+    "specialty": "Hand-hammered Bronze Kadais & Matka Ghadas",
+    "awards": [
+      "State Metal Craft Master 2012",
+      "National Guild Merit"
+    ],
+    "productCount": 3
+  },
+  {
+    "id": "artisan-6",
+    "name": "Pratima Biswal & Coastal SHG Federation",
+    "craft": "Golden Grass, Coir & Natural Fiber Guild",
+    "location": "Kendrapara & Puri Rural Clusters",
+    "state": "Odisha",
+    "yearsOfExperience": 22,
+    "image": "https://images.unsplash.com/photo-1590402494682-cd3fb53b1f70?auto=format&fit=crop&w=800&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1590402494682-cd3fb53b1f70?auto=format&fit=crop&w=800&q=80",
+    "bio": "Leading over 400 rural women artisans harvesting wild golden grass (Kaintha) and coconut coir to weave eco-luxury home decor.",
+    "quote": "Every golden reed harvested from riverbeds supports women autonomy and sustainable living.",
+    "fullStory": "The Kendrapara Golden Grass federation transforms wild river reeds into glossy storage boxes (pedi), trays, baskets, and eco-friendly conference accessories.",
+    "heritageLineage": "Mission Shakti Women Co-operative",
+    "specialty": "Golden Grass Weaving, Jute Bags & Coir Crafts",
+    "awards": [
+      "National Women SHG Award 2021",
+      "Eco Craft Innovator 2023"
+    ],
+    "productCount": 7
+  },
+  {
+    "id": "artisan-7",
+    "name": "Subhadra Jena & Sankhari Guild",
+    "craft": "Master Baleswar Lac Jewellery Makers",
+    "location": "Baleswar Heritage District",
+    "state": "Odisha",
+    "yearsOfExperience": 26,
+    "image": "https://images.unsplash.com/photo-1590402494682-cd3fb53b1f70?auto=format&fit=crop&w=800&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1590402494682-cd3fb53b1f70?auto=format&fit=crop&w=800&q=80",
+    "bio": "Crafting royal lacquer bangles using purified natural shellac resin, hand-applied gold foils, and intricate spiral cords.",
+    "quote": "Lac reflects the vibrant spirit of Odia festivities and traditional feminine adornment.",
+    "fullStory": "Hereditary Sankhari artisans heat and roll natural resin on wooden mandrels to create jewel-studded braided bangles revered for auspicious occasions.",
+    "heritageLineage": "Baleswar Sankhari Lineage",
+    "specialty": "Handcrafted Braided & Striped Lac Bangles",
+    "awards": [
+      "State Traditional Craft Award 2017"
+    ],
+    "productCount": 2
+  }
+]

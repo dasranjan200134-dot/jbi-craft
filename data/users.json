@@ -1,0 +1,158 @@
+[
+  {
+    "id": "admin_143_single",
+    "name": "Admin",
+    "email": "admin143@gmail.com",
+    "phone": "9876543210",
+    "role": "admin",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "email_verified": true,
+    "password": "admin143",
+    "created_at": "2026-10-03T20:00:00.000Z"
+  },
+  {
+    "id": "fcdf4bf4-985b-4c82-b9df-4587d1ae8c67",
+    "name": "User",
+    "email": "patron.test.sync@jbicrafts.com",
+    "phone": "9876543210",
+    "role": "customer",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "created_at": "2026-10-03T16:26:32.875Z"
+  },
+  {
+    "id": "usr_1791042132985",
+    "name": "rrdas",
+    "email": "dasranjan20014@gmail.com",
+    "phone": "",
+    "role": "customer",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "email_verified": false,
+    "verification_code": "642803",
+    "created_at": "2026-10-03T15:42:12.985Z"
+  },
+  {
+    "id": "usr_1791041670250",
+    "name": "rrdas",
+    "email": "dasranjan200135@gmail.com",
+    "phone": "",
+    "role": "customer",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "email_verified": false,
+    "verification_code": "467896",
+    "created_at": "2026-10-03T15:34:30.250Z"
+  },
+  {
+    "id": "usr_1791031035930",
+    "name": "satya",
+    "email": "dasrashmi1342001@gmail.com",
+    "phone": "",
+    "role": "customer",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "email_verified": false,
+    "verification_code": "798570",
+    "created_at": "2026-10-03T12:37:15.930Z"
+  },
+  {
+    "id": "usr-1791015166805",
+    "name": "rrdas",
+    "email": "insightchat2024@gmail.com",
+    "phone": "",
+    "role": "customer",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "created_at": "2026-10-03T08:12:46.805Z",
+    "email_verified": false,
+    "verification_code": "192390",
+    "updated_at": "2026-10-03T14:15:23.590Z"
+  },
+  {
+    "id": "usr-1790998052195",
+    "name": "Ranjan Das",
+    "email": "dasranjan200@gmail.com",
+    "phone": "",
+    "role": "customer",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "created_at": "2026-10-03T03:27:32.195Z"
+  },
+  {
+    "id": "usr-1790689533965",
+    "name": "Akash",
+    "email": "dasranjan200136@gmail.com",
+    "phone": "",
+    "role": "customer",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "created_at": "2026-09-29T13:45:33.965Z"
+  },
+  {
+    "id": "admin-1789137946871",
+    "name": "Rashmi",
+    "email": "rashmiranjan756134@gmail.com",
+    "phone": "",
+    "role": "customer",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "created_at": "2026-09-11T14:45:46.871Z"
+  },
+  {
+    "id": "usr-1788769456762",
+    "name": "Rashmi",
+    "email": "dasranjan200134@gmail.com",
+    "phone": "7735162138",
+    "role": "customer",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "created_at": "2026-09-07T08:24:16.762Z"
+  },
+  {
+    "id": "usr_rashmirdas001",
+    "name": "Rashmi Ranjan Das",
+    "email": "rashmirdas001@gmail.com",
+    "phone": "7735162138",
+    "role": "customer",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "email_verified": true,
+    "created_at": "2026-10-03T12:15:24.191Z"
+  },
+  {
+    "id": "usr_rashmirdas345",
+    "name": "rrdas",
+    "email": "rashmirdas345@gmail.com",
+    "phone": "",
+    "role": "customer",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "email_verified": false,
+    "created_at": "2026-10-03T11:50:27.929Z",
+    "verification_code": "991409",
+    "updated_at": "2026-10-03T14:07:22.746Z"
+  },
+  {
+    "id": "usr_patron_jbi",
+    "name": "Patron",
+    "email": "patron@jbicrafts.com",
+    "phone": "+91 98765 43210",
+    "role": "customer",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "email_verified": true,
+    "created_at": "2026-09-10T12:00:00.000Z"
+  },
+  {
+    "id": "admin-domain-001",
+    "name": "Administrator",
+    "email": "admin@domain.com",
+    "phone": "9876543210",
+    "role": "customer",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "created_at": "2026-10-03T12:00:00.000Z"
+  }
+]

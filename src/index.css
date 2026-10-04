@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, Cambria, serif;
+  --font-display: "Cinzel", Georgia, serif;
+  --font-sans: "Manrope", system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --color-terracotta: #c85018;
+  --color-terracotta-dark: #a33b0c;
+  --color-terracotta-light: #fef3c7;
+  --color-gold-ochre: #d4af37;
+  --color-gold-foil: #e5c068;
+  --color-ivory: #faf7f2;
+  --color-obsidian: #121418;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    background-color: #FAF7F2;
+    color: #2C2520;
+  }
+
+  h1, h2, h3, .font-serif {
+    font-family: var(--font-serif);
+  }
+}
+
+/* Product Detail & Modal Utilities */
+.aspect-4\/5, .aspect-\[4\/5\] { aspect-ratio: 4 / 5; }
+.aspect-square, .aspect-1\/1 { aspect-ratio: 1 / 1; }
+.aspect-3\/4 { aspect-ratio: 3 / 4; }
+.aspect-16\/9 { aspect-ratio: 16 / 9; }
+
+.product-detail-modal ::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.product-detail-modal ::-webkit-scrollbar-track {
+  background: #f5f1eb;
+  border-radius: 4px;
+}
+.product-detail-modal ::-webkit-scrollbar-thumb {
+  background: #d4ccbf;
+  border-radius: 4px;
+}
+

@@ -1,0 +1,6 @@
+{
+  "name": "JBI Craft",
+  "description": "Preserving Odisha Heritage through sustainable and authentic craftsmanship - Handmade handicraft treasures from master artisans across Odisha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

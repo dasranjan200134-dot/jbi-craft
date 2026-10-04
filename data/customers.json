@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cust_admin143_single",
+    "name": "Administrator",
+    "email": "admin143@gmail.com",
+    "phone": "+91 98765 43210",
+    "totalOrders": 0,
+    "totalSpent": 0,
+    "lastOrderDate": null,
+    "createdAt": "2026-10-03T20:00:00.000Z"
+  },
+  {
+    "id": "cust_1790945283744_901",
+    "name": "Ranjan Das",
+    "email": "dasranjan200134@gmail.com",
+    "phone": "+91 98765 43210",
+    "totalOrders": 4,
+    "totalSpent": 8600,
+    "lastOrderDate": "2026-10-02T12:48:57.009Z",
+    "createdAt": "2026-10-02T12:48:03.744Z"
+  }
+]
