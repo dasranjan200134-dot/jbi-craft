@@ -1,5 +1,5 @@
 -- ====================================================================
--- JBI CRAFTS & ARTISANS ATELIER - COMPLETE ENTERPRISE BACKEND SCHEMA
+-- JBI CRAFT & ARTISANS ATELIER - COMPLETE ENTERPRISE BACKEND SCHEMA
 -- SUPABASE POSTGRESQL + ROW LEVEL SECURITY (RLS) + STORED PROCEDURES
 -- ====================================================================
 -- Features Included:

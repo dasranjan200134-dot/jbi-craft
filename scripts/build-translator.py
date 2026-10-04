@@ -150,7 +150,7 @@ translations = {
         "dz": "JBI ལག་བཟོ",
         "si": "JBI හස්ත කර්මාන්ත"
     },
-    "JBI Crafts": {
+    "JBI Craft": {
         "ar": "حرف جي بي آي",
         "ne": "JBI हस्तकला",
         "zh-CN": "JBI 传统手工艺",

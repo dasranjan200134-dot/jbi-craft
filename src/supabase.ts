@@ -52,7 +52,7 @@ export interface StoreOrder {
 }
 
 export const SUPABASE_SQL_SCHEMA = `-- ==========================================
--- JBI CRAFTS / CRAFTLY STORE SUPABASE SCHEMA
+-- JBI CRAFT / CRAFTLY STORE SUPABASE SCHEMA
 -- Run this in Supabase SQL Editor (1-Click Setup)
 -- ==========================================
 

@@ -20467,7 +20467,7 @@ ${suffix}`;
   var SUPABASE_PROJECT_ID = "xgnojcorciyjwtakhbny";
   var supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
   var SUPABASE_SQL_SCHEMA = `-- ==========================================
--- JBI CRAFTS / CRAFTLY STORE SUPABASE SCHEMA
+-- JBI CRAFT / CRAFTLY STORE SUPABASE SCHEMA
 -- Run this in Supabase SQL Editor (1-Click Setup)
 -- ==========================================
 
@@ -21403,7 +21403,7 @@ ON public.newsletter_subscribers FOR SELECT USING (true);
         if (typeof alert !== "undefined") alert(error.message);
         return { error };
       }
-      if (typeof alert !== "undefined") alert('Check your email and click the verification link, then sign in.');
+      // Auto confirmed sign up notification removed
       return { data };
     };
     window.signIn = async function signIn(email, password) {
