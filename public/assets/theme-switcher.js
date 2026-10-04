@@ -37,42 +37,10 @@
   const initialTheme = getStoredTheme();
   document.documentElement.setAttribute("data-theme", initialTheme);
 
-  // Mount Floating Palette Dock
+  // Palette dock disabled/removed per user request
   function mountDock() {
-    if (document.getElementById("jbi-palette-dock")) return;
-    
-    const dock = document.createElement("div");
-    dock.id = "jbi-palette-dock";
-    dock.className = "jbi-palette-dock";
-    dock.setAttribute("aria-label", "Color Palette Switcher");
-    dock.innerHTML = `
-      <div class="jbi-palette-label" title="Switch Color Palette">
-        <span>🎨</span>
-        <span class="hidden sm:inline">Palette</span>
-      </div>
-      <div style="display:flex;align-items:center;gap:6px;">
-        ${PALETTES.map(p => `
-          <button 
-            type="button" 
-            class="jbi-palette-btn ${p.id === initialTheme ? 'active' : ''}" 
-            data-palette-id="${p.id}" 
-            data-color="${p.primary}"
-            title="${p.name}" 
-            aria-label="${p.name}"
-            style="background: ${p.primary};"
-          ></button>
-        `).join("")}
-      </div>
-    `;
-
-    document.body.appendChild(dock);
-
-    dock.querySelectorAll(".jbi-palette-btn").forEach(btn => {
-      btn.addEventListener("click", () => {
-        const themeId = btn.getAttribute("data-palette-id");
-        applyTheme(themeId);
-      });
-    });
+    const existing = document.getElementById("jbi-palette-dock");
+    if (existing) existing.remove();
   }
 
   if (document.readyState === "loading") {

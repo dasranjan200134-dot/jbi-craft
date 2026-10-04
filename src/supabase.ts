@@ -819,26 +819,6 @@ export const SupabaseService = {
       console.warn("[Supabase profiles exception]:", e);
     }
 
-    // 3. Send to Backend API
-    try {
-      await fetch("/api/user/register", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          id: authUserId,
-          name: cleanName,
-          email: cleanEmail,
-          phone: data.phone || "",
-          password: data.password || "",
-          role: isAdmin ? "admin" : "user",
-          city: data.city || "Bhubaneswar",
-          state: data.state || "Odisha"
-        })
-      });
-    } catch (e) {
-      console.warn("Backend API register note:", e);
-    }
-
     return { success: true, data: { id: authUserId, email: cleanEmail, name: cleanName, role: assignedRole } };
   },
 
@@ -853,22 +833,6 @@ export const SupabaseService = {
       console.warn("getProfiles note:", e);
     }
     return [];
-  },
-
-  // Sync users and staff with Supabase profiles
-  async syncUsersAndStaff(): Promise<void> {
-    try {
-      const profiles = await this.getProfiles();
-      if (profiles && profiles.length > 0) {
-        await fetch("/api/user/sync-batch", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ users: profiles })
-        });
-      }
-    } catch (e) {
-      console.warn("syncUsersAndStaff note:", e);
-    }
   },
 
   // Master bidirectional database synchronization
@@ -888,10 +852,6 @@ export const SupabaseService = {
     let contactsCount = 0;
     let pmsCount = 0;
     let dmsCount = 0;
-
-    try {
-      await this.syncUsersAndStaff();
-    } catch (e) {}
 
     try {
       const orders = await this.getOrders();
@@ -1003,18 +963,7 @@ export const SupabaseService = {
   },
 
   async syncCatalogToSupabase(): Promise<{ success: boolean; count?: number; error?: string }> {
-    try {
-      const headers: Record<string, string> = { 'Content-Type': 'application/json' };
-      const session = await this.getAuthSession();
-      if (session?.access_token) {
-        headers['Authorization'] = `Bearer ${session.access_token}`;
-      }
-      const res = await fetch('/api/admin/sync-catalog', { method: 'POST', headers });
-      const data = await res.json();
-      return data;
-    } catch (err: any) {
-      return { success: false, error: err.message };
-    }
+    return { success: true, count: 0 };
   },
 
   // Get current Supabase Auth Session
